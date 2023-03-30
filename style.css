@@ -142,7 +142,7 @@ header {
 
 .heading h2 {
   font-weight: normal;
-  font-size: 36px;
+  font-size: 60px;
 }
 
 .lesson {
@@ -151,8 +151,8 @@ header {
 }
 
 .lesson-icon {
-  size: 50px;
-  margin: 0 50px 0 50px;
+  size: 20px;
+  margin: 0 80px 0 80px;
 }
 
 .text-header {
