@@ -3,15 +3,15 @@
 }
 
 .header-right {
-  margin: 0;
+  margin: 20px;
   font-align: right;
   font-family: "Lucida Grande";
 }
 
 .header-left {
-  margin: 0;
+  margin: 20px;
   font-align: left;
-  color: white;
+  color: #fffff;
   font-size: 30px;
   font-family: "Franklin Gothic Medium";
 }
@@ -31,7 +31,7 @@ a {
 }
 
 .top-wrapper {
-  padding: 0 0 0 0;
+  padding: 100px 0 280px 0;
   background-image: url(https://raw.githubusercontent.com/Kinanthird/super-fishstick/main/IMG_20220531_191846_559.jpg);
   background-size: cover;
   color: white;
@@ -153,8 +153,7 @@ header {
 }
 
 .lesson-icon {
-  position: relative;
-  size: 50px;
+  icon-size: 50px;
 }
 
 .text-header {
