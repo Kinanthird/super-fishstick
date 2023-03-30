@@ -96,10 +96,6 @@ header {
   font-family: "Franklin Gothic Medium";
 }
 
-.header-left p {
-  color: white;
-}
-
 .header-right {
   float: right;
   margin-right: -25px;
@@ -162,6 +158,7 @@ header {
 .text-header {
   text-align: center;
   color: black;
+  font-size: 54px;
 }
 
 .text-contents {
