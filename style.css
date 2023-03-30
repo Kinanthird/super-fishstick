@@ -50,7 +50,7 @@ a {
 }
 
 .btn-wrapper p {
-  margin: 10px 0;
+  padding: 10px 0;
 }
 
 .twitter {
@@ -93,7 +93,8 @@ header {
 }
 
 .header-left p {
-  margin: 0 0 20px 0;
+  padding: 20px;
+  justify-content: center;
   font-align: left;
   font-size: 30px;
   font-family: "Franklin Gothic Medium";
