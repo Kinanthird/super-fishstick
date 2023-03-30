@@ -55,7 +55,7 @@ a {
 
 .twitter {
   background-color: #3b5998;
-  margin-right: 30px;
+  margin-right: 5px;
 }
 
 .facebook {
@@ -90,6 +90,9 @@ header {
 
 .header-left {
   float: left;
+}
+
+.header-left p {
   margin: 0 0 10px 0;
   font-align: left;
   font-size: 30px;
