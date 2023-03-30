@@ -32,10 +32,12 @@ a {
 
 .top-wrapper {
   padding: 100px 0 180px 0;
-  background-image: url(https://raw.githubusercontent.com/Kinanthird/super-fishstick/main/IMG_20220531_191846_559.jpg);
+  background-image: url(https://raw.githubusercontent.com/Kinanthird/super-fishstick/main/IMG-20221201-WA0044-01.jpeg);
   background-size: cover;
   color: white;
-  text-align: center;
+  background-position: center;
+  opacity: 1;
+  transition: opacity 0.5s ease-in-out;
 }
 
 .top-wrapper h1 {
