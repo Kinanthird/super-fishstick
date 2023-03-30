@@ -98,6 +98,8 @@ header {
   font-size: 30px;
   font-family: "Franklin Gothic Medium";
   color: white;
+  display: inline-block;
+  vertical-align: middle;
 }
 
 .header-right {
