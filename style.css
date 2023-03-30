@@ -25,7 +25,8 @@ a {
   padding: 100px 0 180px 0;
   background-image: url(https://raw.githubusercontent.com/Kinanthird/super-fishstick/main/IMG-20221201-WA0044-01.jpeg);
   background-size: cover;
-  color: black;
+  background-opacity: 60%;
+  color: white;
   background-position: center;
   opacity: 1;
   transition: opacity 0.5s ease-in-out;
@@ -93,7 +94,7 @@ header {
 }
 
 .header-left p {
-  padding: 4px;
+  padding: 1px;
   font-align: left;
   font-size: 30px;
   font-family: "Franklin Gothic Medium";
