@@ -76,7 +76,7 @@ a {
 }
 
 .fa {
-  margin-right: 5px;
+  margin-right: 25px;
 }
 
 header {
@@ -94,6 +94,9 @@ header {
   font-align: left;
   font-size: 30px;
   font-family: "Franklin Gothic Medium";
+}
+
+.header-left p {
   color: white;
 }
 
@@ -153,6 +156,7 @@ header {
 
 .lesson-icon {
   size: 50px;
+  margin: 0 50px 0 50px;
 }
 
 .text-header {
@@ -164,7 +168,7 @@ header {
   width: 80%;
   display: inline-block;
   margin-top: 15px;
-  font-size: 15px;
+  font-size: 35px;
   color: #b3aeb5;
 }
 
