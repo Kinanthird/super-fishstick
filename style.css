@@ -27,7 +27,7 @@ a {
   background-size: cover;
   color: black;
   background-position: center;
-  opacity: 0,5;
+  opacity: 1;
   transition: opacity 0.5s ease-in-out;
 }
 
@@ -93,7 +93,7 @@ header {
 }
 
 .header-left p {
-  padding: 8px;
+  padding: 4px;
   font-align: left;
   font-size: 30px;
   font-family: "Franklin Gothic Medium";
