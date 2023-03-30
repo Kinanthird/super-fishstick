@@ -3,13 +3,13 @@
 }
 
 .header-right {
-  margin: 20px;
+  margin: 0px;
   font-align: right;
   font-family: "Lucida Grande";
 }
 
 .header-left {
-  margin: 20px;
+  margin: 0px;
   font-align: left;
   color: #fffff;
   font-size: 30px;
@@ -149,11 +149,11 @@ header {
 
 .lesson {
   float: left;
-  width: 25%;
+  width: 50%;
 }
 
 .lesson-icon {
-  icon-size: 50px;
+  size: 50px;
 }
 
 .text-header {
