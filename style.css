@@ -93,12 +93,17 @@ header {
   float: left;
 }
 
-.header-left p {
-  font-align: left;
-  font-size: 30px;
-  font-family: "Franklin Gothic Medium";
+.header-left a {
+  line-height: 65px;
+  padding: 0 25px;
   color: white;
-  padding : 0 0 8px 8px;
+  display: block;
+  float: left;
+  transition: all 0.5s;
+}
+
+.header-left a:hover {
+  background-color: rgba(255, 255, 255, 0.3);
 }
 
 .header-right {
