@@ -14,7 +14,6 @@ a {
   max-width: 1170px;
   padding: 0 15px;
   margin: 0 auto;
-  color: #ffffff !important;
 }
 
 .top-wrapper {
@@ -48,7 +47,7 @@ a {
   margin: 10px 0;
 }
 
-.linkedin {
+.twitter {
   background-color: #3b5998;
   margin-right: 10px;
 }
@@ -94,6 +93,7 @@ header {
   font-align: left;
   font-size: 30px;
   font-family: "Franklin Gothic Medium";
+  color: white;
 }
 
 .header-right {
